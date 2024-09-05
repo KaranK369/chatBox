@@ -8,13 +8,11 @@ import ActiveStatus from './components/ActiveStatus';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Nexus - Your Ultimate Chat Experience',
-  description:
-    'Nexus is a revolutionary chat application that transcends traditional messaging. Immerse yourself in rich, dynamic conversations, collaborate effortlessly, and forge meaningful connections with friends and colleagues. Join Nexus today and experience a new era of communication.',
+  title: 'ChatBox',
   keywords: [],
   twitter: {
     card: 'summary_large_image',
-    creator: '@yodkwtf',
+    creator: 'Karan_K',
   },
 };
 
