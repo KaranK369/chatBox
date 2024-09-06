@@ -1,5 +1,5 @@
--Name: Karan Kumar
--University: IIT Dharwad
+- **Name**: Karan Kumar
+- **University**: IIT Dharwad
 
 ## Features
 
