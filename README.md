@@ -1,3 +1,6 @@
+Name: Karan Kumar
+University: IIT Dharwad
+
 ## Features
 
 - **Real-Time Chatting**: Enjoy real-time chat with other users.
